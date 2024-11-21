@@ -4,7 +4,7 @@ This repository contains the implementation of a robust machine learning pipelin
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Installation / Running](#Installation / Running)
+- [Installation / Running](#L20)
 - [Motivation](#motivation)
 - [Challenges](#challenges)
 - [Key Features](#key-features)
