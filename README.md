@@ -48,7 +48,7 @@ With the surge of digital content, fake news has become a critical concern. This
    - Utilized **BERT Tokenizer** for transforming text into embeddings.
 3. **Model Training:**
    - Fine-tuned Multilingual BERT with additional dense layers for classification.
-   - Training performed on Kaggle using NVIDIA GPU for 30+ hours.
+   - Training performed on Kaggle using NVIDIA GPU for 10+ hours.
 4. **Evaluation:**
    - Model performance evaluated using metrics like accuracy, precision, recall, and F1-score.
 
