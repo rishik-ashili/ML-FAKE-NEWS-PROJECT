@@ -4,6 +4,7 @@ This repository contains the implementation of a robust machine learning pipelin
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Installation / Running](#Installation / Running)
 - [Motivation](#motivation)
 - [Challenges](#challenges)
 - [Key Features](#key-features)
@@ -15,6 +16,17 @@ This repository contains the implementation of a robust machine learning pipelin
 ## Introduction
 
 With the surge of digital content, fake news has become a critical concern. This project aims to address the problem by developing a machine learning model that classifies news articles into fake or real categories with high accuracy. 
+
+## Installation / Running
+
+1. git clone https://github.com/rishik-ashili/ML-FAKE-NEWS-PROJECT.git
+cd ML-FAKE-NEWS-PROJECT
+2. pip install pandas numpy nltk stanza langid sklearn torch transformers matplotlib deep_translator
+3. Download the datasets and model from the resources section
+4. Incase of running all the cells just simply run the specific cell in the main file or else download the output csv to use.
+5. Model training kaggle file is given , training on kaggle is easier to just run the training cells locally
+6. In case using model directly put the path to downloaded model and move to predictions directly
+
 
 ## Motivation
 
