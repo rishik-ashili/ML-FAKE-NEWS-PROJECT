@@ -1,0 +1,32 @@
+12.2s 1 /kaggle/input/hindienng/Final_Hindi_English_Text.csv
+21.1s 2 Using device: cuda
+122.5s 3 /tmp/ipykernel_23/2772875249.py:4: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.
+122.5s 4 scaler = GradScaler()
+123.5s 5 /tmp/ipykernel_23/2772875249.py:22: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+123.5s 6 with autocast():
+1364.2s 7 /tmp/ipykernel_23/2772875249.py:40: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+1364.2s 8 with autocast():
+1454.1s 9 Epoch 1/5
+1454.1s 10 Train Loss: 0.4711
+1454.1s 11 Validation Loss: 0.4235
+1454.1s 12 Validation Accuracy: 0.8879
+2792.7s 13 Epoch 2/5
+2792.7s 14 Train Loss: 0.4305
+2792.7s 15 Validation Loss: 0.4121
+2792.7s 16 Validation Accuracy: 0.9001
+4135.0s 17 Epoch 3/5
+4135.0s 18 Train Loss: 0.4200
+4135.0s 19 Validation Loss: 0.4261
+4135.0s 20 Validation Accuracy: 0.8857
+5479.1s 21 Epoch 4/5
+5479.1s 22 Train Loss: 0.4145
+5479.1s 23 Validation Loss: 0.4299
+5479.1s 24 Validation Accuracy: 0.8801
+6824.1s 25 Epoch 5/5
+6824.1s 26 Train Loss: 0.4131
+6824.1s 27 Validation Loss: 0.4124
+6824.1s 28 Validation Accuracy: 0.8986
+6829.7s 29 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+6830.0s 30 [NbConvertApp] Writing 69829 bytes to __notebook__.ipynb
+6831.3s 31 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+6832.0s 32 [NbConvertApp] Writing 349007 bytes to __results__.html
